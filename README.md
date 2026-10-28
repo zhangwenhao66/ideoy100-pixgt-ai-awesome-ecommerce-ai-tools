@@ -9,6 +9,7 @@
 
 这份清单按**使用场景**而非按厂商组织,帮你快速定位"我这个需求该用哪一类工具"。
 
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 ## 目录
 
 - [怎么选:三步定位](#怎么选三步定位)
